@@ -7,7 +7,7 @@ Exclusively tested on Minimal Raspbian (ARM)
 - The first bluetooth connection after boot is known to fail after few seconds. All subsequent connections will work just fine.
 
 # installation
-` git clone https://github.com/morrolinux/mpradio.git mpradio-master `
+` git clone https://github.com/0-pi/mpradio.git mpradio-master `
 
 ` cd mpradio-master/install `
 
@@ -20,7 +20,7 @@ However, you can change the FM streaming frequency (which is otherwise defaulted
 pirateradio.config example:
 ```
 [PIRATERADIO]
-frequency=105.3
+frequency=88.8
 ```
 
 # update 
