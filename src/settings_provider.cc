@@ -9,7 +9,7 @@ using namespace std;
 #define FORMAT "mp3"
 #define STORAGE "/pirateradio"
 #define SETTINGS "/pirateradio/pirateradio.config"
-#define DEFAULTFREQ "88.8"
+#define DEFAULTFREQ "105.3"
 #define STRLEN 40
 
 settings s;
